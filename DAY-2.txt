@@ -1,0 +1,16 @@
+Good AfterNoon To All
+---------------------
+To day Agenda
+-------------
+1.Keywords in Python
+2.Variable Decleration
+3.Python Operators
+4.Python Datatypes
+	.Numbers
+	.Boolean
+	.String
+	.List
+	.Tuple
+	.Dictionary
+	.Set
+5.Conditional Statements
