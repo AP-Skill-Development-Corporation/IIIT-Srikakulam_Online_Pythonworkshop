@@ -46,3 +46,19 @@
 
 - [Recorded Video](https://transcripts.gotomeeting.com/#/s/97e08122bd54ab0709f7f8e4d264b2d3d65a59af0953bdaedbd733e99f0b9b76)
 
+
+# Day-4
+
+- Function Arguments
+- What is Argument and Parameter?
+- Types of Arguments
+
++ Python Strings
++ How to create the string
++ How to access the characters in a string
+
+
+### Day-4
+
+- [Recorded Video](https://transcripts.gotomeeting.com/#/s/03a92f99bf3eb9438354d77ba07282cbb377099bd64e663163933d00ebfa2589)
+
