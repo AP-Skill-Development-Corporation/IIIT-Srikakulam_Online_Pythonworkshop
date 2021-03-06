@@ -1,0 +1,13 @@
+Good AfterNoon To All
+---------------------
+To day Agenda
+-------------
+1.String Methods
+
+DataStructures Concepts
+-----------------------
+2.List
+3.Tuple
+4.Dictionary
+5.sets
+ 
