@@ -62,3 +62,18 @@
 
 - [Recorded Video](https://transcripts.gotomeeting.com/#/s/03a92f99bf3eb9438354d77ba07282cbb377099bd64e663163933d00ebfa2589)
 
+# Day-5
+
+- String Methods
+
+## Datastructures Concept
+
+* List
+* Tuples
+
+
+### Day-5
+
+- [Recorded Video](https://transcripts.gotomeeting.com/#/s/ef27a512bcbbe1d49055f540e0c803b6dc78f25bf5fe19f407ec9f96821b0206)
+
+* [Continution Video](https://transcripts.gotomeeting.com/#/s/8a0698266c814924b1f204f3102fe82ec4cb52dd9387017cb26b0a5842fbb6b2)
