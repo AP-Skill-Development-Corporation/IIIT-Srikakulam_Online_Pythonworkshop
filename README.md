@@ -77,3 +77,28 @@
 - [Recorded Video](https://transcripts.gotomeeting.com/#/s/ef27a512bcbbe1d49055f540e0c803b6dc78f25bf5fe19f407ec9f96821b0206)
 
 * [Continution Video](https://transcripts.gotomeeting.com/#/s/8a0698266c814924b1f204f3102fe82ec4cb52dd9387017cb26b0a5842fbb6b2)
+
+
+
+# Day-7
+
+- Sets
+- List,Tuple,Dict-Comprehesions
+
+- Anamymous Functions
+
+
+### Day-7
+
+- [Recorded Video](https://transcripts.gotomeeting.com/#/s/e8b3a839b2eeeabac169eca484bda843fe85b27a433f7c65d1897ce8b2b3ac67)
+
+# Day-8
+
+- Files
+- Map,Filter
+
+
+
+### Day-8
+
+- [Recorded Video](https://transcripts.gotomeeting.com/#/s/8d97381d1d9ef127e941d0427c16f589c1ef1ffb02373ce12b6287a983eaf468)
