@@ -101,3 +101,24 @@
 ### Day-8
 
 - [Recorded Video](https://transcripts.gotomeeting.com/#/s/8d97381d1d9ef127e941d0427c16f589c1ef1ffb02373ce12b6287a983eaf468)
+
+
+# Day-9
+
+- RegularExpressions
+
+
+### Day-9
+
+- [Recorded Video](https://transcripts.gotomeeting.com/#/s/340d1f8b2b0ea73371190305a1f055ad16889ebbeceb4c74b7b40479fd2bea08)
+
+# Day-10
+
+- RegularExpressions
+- Numpy
+- Pandas
+
+
+### Day-10
+
+- [Recorded Video](https://transcripts.gotomeeting.com/#/s/33514bf05bdcb0602c374948c35fe2efe393ca1b851c814a7c386af3c78b2705)
