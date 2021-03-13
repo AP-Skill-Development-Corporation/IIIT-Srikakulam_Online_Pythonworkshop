@@ -77,3 +77,48 @@
 - [Recorded Video](https://transcripts.gotomeeting.com/#/s/ef27a512bcbbe1d49055f540e0c803b6dc78f25bf5fe19f407ec9f96821b0206)
 
 * [Continution Video](https://transcripts.gotomeeting.com/#/s/8a0698266c814924b1f204f3102fe82ec4cb52dd9387017cb26b0a5842fbb6b2)
+
+
+
+# Day-7
+
+- Sets
+- List,Tuple,Dict-Comprehesions
+
+- Anamymous Functions
+
+
+### Day-7
+
+- [Recorded Video](https://transcripts.gotomeeting.com/#/s/e8b3a839b2eeeabac169eca484bda843fe85b27a433f7c65d1897ce8b2b3ac67)
+
+# Day-8
+
+- Files
+- Map,Filter
+
+
+### Day-8
+
+- [Recorded Video](https://transcripts.gotomeeting.com/#/s/8d97381d1d9ef127e941d0427c16f589c1ef1ffb02373ce12b6287a983eaf468)
+
+
+# Day-9
+
+- RegularExpressions
+
+
+### Day-9
+
+- [Recorded Video](https://transcripts.gotomeeting.com/#/s/340d1f8b2b0ea73371190305a1f055ad16889ebbeceb4c74b7b40479fd2bea08)
+
+# Day-10
+
+- RegularExpressions
+- Numpy
+- Pandas
+
+
+### Day-10
+
+- [Recorded Video](https://transcripts.gotomeeting.com/#/s/33514bf05bdcb0602c374948c35fe2efe393ca1b851c814a7c386af3c78b2705)
