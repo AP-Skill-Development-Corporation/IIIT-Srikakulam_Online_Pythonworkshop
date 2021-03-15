@@ -122,3 +122,17 @@
 ### Day-10
 
 - [Recorded Video](https://transcripts.gotomeeting.com/#/s/33514bf05bdcb0602c374948c35fe2efe393ca1b851c814a7c386af3c78b2705)
+
+
+
+# Day-11
+
+- Pandas
+- MatplotLib
+
+
+### Day-11
+
+- [Recorded Video](https://transcripts.gotomeeting.com/#/s/9a8a6fb635ffac7a6735051c328f6dd9a6868e2e27b6d2708f99d347cac240b4)
+
+
